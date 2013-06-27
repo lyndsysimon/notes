@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 2
 
    project_ideas
-   2013/scipy
+   conferences/scipy_2013
 
 Indices and tables
 ==================
