@@ -77,3 +77,7 @@ Recommends run.py
 - Recommends docopt! :)
 
 Recommends trying to release results of analysis if the dataset cannot be open.
+
+Thursday Keynote
+----------------
+:Presenter: `William Schroeder <http://www.kitware.com/company/team/schroeder.html>`_, CEO Kitware
