@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-
+   2013/scipy
 
 Indices and tables
 ==================
