@@ -19,6 +19,10 @@ A graphical terminal replacement, built to be compatible with xterm.
 
 `Presentation <https://github.com/ananelson/talks/tree/master/2013/scipy>`__
 
+Re-shareable anal and diag
+
+`Charles doutriaux <https://github.com/doutriaux1/>`_
+
 SIDUS
 -----
 
