@@ -11,8 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-    project_ideas
-    2013/scipy
+   project_ideas
+   2013/scipy
 
 Indices and tables
 ==================

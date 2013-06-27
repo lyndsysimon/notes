@@ -1,5 +1,5 @@
 ============
- SciPy 2103
+ SciPy 2013
 ============
 :dates: June 24-29 2013
 
@@ -28,7 +28,7 @@ SIDUS
 
 Run a given OS identically on mutliple workstations - including cloudy stuff.
 
-Term: COMOD (_C_ompute _O_n _M_y _O_wn _D_evice)
+Term: COMOD (Compute On My Own Device)
 
 The OS is stored remotely - but local resources are used for computation
 
@@ -50,7 +50,8 @@ Worksheets are going to be going away at some point.
 Notebooks > Reveal.js
 ---------------------
 
-`Example Presentation <http://damianavila.github.io/scipy2013_talks/index.html>`
+`Example Presentation <http://damianavila.github.io/scipy2013_talks/index.html>`_
+
 `source <https://github.com/damianavila/scipy2013_talks/tree/gh-pages>`_
 
 Primary conversion mechanism is through nbconvert.
