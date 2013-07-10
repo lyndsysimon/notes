@@ -25,4 +25,11 @@ for later reference.
 A collection of resources for salt, including state trees and custom modules.
 
 
-Conda, Wakari bundles, Binstar
+Python Packages
+===============
+
+`Luigi <https://github.com/spotify/luigi>`_
+-------------------------------------------
+
+Workflow management suite - designed for sysadminy stuff, but looks like it
+would work for scientific data analysis.  A few changes might make it perfect.
