@@ -5,7 +5,10 @@
 Books
 =====
 
-Beautiful Visualizations - O'Reilly
+* `Beautiful Visualizations`__, *O'Reilly*
+* `A PhD is Not Enough!: A Guide to Survival in Science <http://www.amazon.com/dp/B004EHZDE8/?tag=lsforum-20>`_, *Peter J. Feibelman*
+
+.. __ http://www.amazon.com/dp/B003Q6D5NE/
 
 Sites
 =====
@@ -20,3 +23,6 @@ for later reference.
 ------------------------------------------
 
 A collection of resources for salt, including state trees and custom modules.
+
+
+Conda, Wakari bundles, Binstar

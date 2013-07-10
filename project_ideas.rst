@@ -10,3 +10,5 @@ A system of metadata annotation, through which the a data analysis process is br
 A visual tool for input and representation would double as a sort of "visual analysis workflow", which would be extremely valuable for understanding another researcher's workflow.
 
 There's a neuroimaging tool for this already: `NIPype <https://github.com/nipy/nipype/>`_
+
+
