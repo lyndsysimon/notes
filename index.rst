@@ -13,7 +13,22 @@ Contents:
 
    project_ideas
    reference
-   conferences/scipy_2013
+
+Center for Open Science:
+
+.. toctree::
+    :glob:
+    :titlesonly:
+
+    cos/*
+
+Conferences:
+
+.. toctree::
+   :glob:
+   :titlesonly:
+
+   conferences/*
 
 Indices and tables
 ==================

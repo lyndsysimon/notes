@@ -33,3 +33,8 @@ Python Packages
 
 Workflow management suite - designed for sysadminy stuff, but looks like it
 would work for scientific data analysis.  A few changes might make it perfect.
+
+Conferences
+===========
+
+WriteTheDocs
